@@ -1,0 +1,11 @@
+puts "Hello, Universe."
+print "Good luck, kid. You're gonna need it."
+puts my_string = " the best string ever!"
+puts my_string.reverse
+print my_string.upcase
+num1 = 2
+num2 = 4
+puts num1 + num2
+puts "What's your name?"
+name = gets.chomp
+puts "Oh, hi " + name
